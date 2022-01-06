@@ -3,5 +3,9 @@
 Use Lagrange interpolation to interpolate the following functions:
 
 
-![Alt Text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pem6iAlY4BuF6tB6_-VSwgHaDV%26pid%3DApi&f=1)
+![Alt Text](https://github.com/NovaDesignedIt/NumericalComputing_Interpolation/blob/main/Screenshot%20from%202022-01-05%2020-03-43.png?raw=true)
 
+Test your generated polynomial with different orders, n= 5, 10, 20 and compute the
+interpolation polynomial P n (x) at 41 regularly spaced points.
+For each value of x k the Lagrange polynomial approximation is output together with
+the exact /true value from the math library, also output the absolute error.
